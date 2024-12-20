@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common Python error: a RecursionError due to improper handling of the base case in a recursive function. The `bug.py` file shows the erroneous code, while `bugSolution.py` provides a corrected version.
